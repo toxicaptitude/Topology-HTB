@@ -67,6 +67,8 @@ $ls -ld /usr/bin/bash
 
 **$/usr/bin/bash -p**
 
+This is literally a piece of cake.
+
 and :)Boom:) get root.
 
 find root.txt and finally go to bed:)
